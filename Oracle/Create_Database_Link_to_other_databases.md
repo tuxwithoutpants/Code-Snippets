@@ -1,5 +1,5 @@
 #### Create Database Link to other databases
-Allows SQL commands to be executed across databases
+<i> Allows SQL commands to be executed across databases </i>
 
 `CREATE DATABASE LINK <<DB LINK NAME>>`  
 `CONNECT TO <<username>>`  
