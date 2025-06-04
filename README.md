@@ -1,2 +1,8 @@
 # Code Snippets
-Coding Cookbook
+## Coding Cookbook
+
+### Shorthand Legend
+---
+`
+<<Something>> - Replace this with appropiate inform 
+`
