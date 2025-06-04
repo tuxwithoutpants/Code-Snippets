@@ -4,5 +4,5 @@
 ### Shorthand Legend
 ---
 `
-<<Something>> - Replace this with appropiate inform 
+<<Something>> - Replace this with appropriate inform 
 `
