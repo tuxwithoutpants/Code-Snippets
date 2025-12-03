@@ -8,4 +8,4 @@
 `set verify off ;`<br>
 `set trimspool on;`<br><br>
 
-`SELECT DBMS_METADATA.get_ddl ('TABLE', 'EMPLOYEES','HR') from dual;`
+`SELECT DBMS_METADATA.get_ddl ('TABLE', '<<TABLE>>','<<SCHEME>>') from dual;`
