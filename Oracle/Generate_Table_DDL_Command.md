@@ -7,5 +7,5 @@
 `set feedback off ;`<br>
 `set verify off ;`<br>
 `set trimspool on;`<br><br>
-``
+
 `SELECT DBMS_METADATA.get_ddl ('TABLE', 'EMPLOYEES','HR') from dual;`
